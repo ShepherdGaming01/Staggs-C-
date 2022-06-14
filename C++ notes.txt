@@ -1,0 +1,66 @@
+#include <iostream>
+	A library to use std::cout and std::endl
+	Allows user to print information in the terminal.
+
+#include <iomanip>
+
+#include
+
+std::cout << " incert text ";
+	prints incerted text on terminal
+	//pushes information out
+
+std::cin
+	reading data from terminal
+	//takes user input in
+
+std::getline(std::cin,//string name);
+	allows user to input with spaces
+
+std::cerr
+	prints error on console
+
+std::clog
+	prints log messages to the console
+
+std::cout << " incert text " << std::endl;
+std::cout << " secondary text ";
+	prints incerted text on the terminal with a new line between text
+
+std::string //stringname;
+	saves what letters are entered to the name
+
+std::int //intname;
+	saves numbers to name 
+
+int main(){ incert code }
+	main fuction first thing to run
+
+return 0;
+	main fuction tells operating system if there is any problems
+
+//make a comment in your code
+	makes a one line comment inside your code
+
+/*
+block
+comment
+*/
+	allows for multipule lines of comments within the stars
+
+sizeof
+	Checks the size of the interger variables
+
+Three types of errors
+	compile time error:
+		shows an error in the terminal telling you whats wrong.
+	runtime error:
+		will not run the way you want it to, or will cause the program to crash.
+	warnings:
+		will still run your code but will tell you that something may cause problems later.
+
+Functions:
+	Must be defined before it can be called
+
+Statements:
+	statements are run from top to bottom.
